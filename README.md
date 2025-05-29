@@ -1,4 +1,4 @@
-# Akaike_Task3_Sriram_N
+# QA_Chatbot 
 
 This project uses LangChain and a local LLM (FLAN-T5) to create a document-aware QA bot.
 
